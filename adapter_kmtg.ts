@@ -1,0 +1,1 @@
+const service_kmtg = <T>(args: T): T => { return args; };
